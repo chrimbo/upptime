@@ -5,6 +5,14 @@
     "slug": "chrimbo-de",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1193
+    "time": 1154
+  },
+  {
+    "name": "Bormann",
+    "url": "https://www.bormann2.de",
+    "slug": "bormann",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 1010
   }
 ]

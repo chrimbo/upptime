@@ -6,6 +6,8 @@ repo: upptime # Your Github repository name
 sites:
   - name: Chrimbo.de
     url: https://www.chrimbo.de
+  - name: Bormann
+    url: https://www.bormann2.de
 
 status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name

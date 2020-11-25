@@ -3,16 +3,16 @@
     "name": "Chrimbo.de",
     "url": "https://www.chrimbo.de",
     "slug": "chrimbo-de",
-    "status": "down",
-    "uptime": "95.03%",
-    "time": 4223
+    "status": "up",
+    "uptime": "94.56%",
+    "time": 4685
   },
   {
     "name": "Bormann",
     "url": "https://www.bormann2.de",
     "slug": "bormann",
-    "status": "down",
-    "uptime": "99.04%",
-    "time": 5088
+    "status": "up",
+    "uptime": "98.55%",
+    "time": 4904
   }
 ]

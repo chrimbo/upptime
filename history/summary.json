@@ -4,19 +4,19 @@
     "url": "https://www.chrimbo.de",
     "icon": "https://favicons.githubusercontent.com/www.chrimbo.de",
     "slug": "chrimbo-de",
-    "status": "up",
-    "uptime": "98.69%",
-    "uptimeDay": "72.14%",
-    "uptimeWeek": "83.77%",
+    "status": "down",
+    "uptime": "98.70%",
+    "uptimeDay": "72.13%",
+    "uptimeWeek": "83.76%",
     "uptimeMonth": "93.95%",
-    "uptimeYear": "98.69%",
+    "uptimeYear": "98.70%",
     "time": 3470,
-    "timeDay": 11457,
+    "timeDay": 10497,
     "timeWeek": 9694,
     "timeMonth": 5816,
     "timeYear": 3470,
     "dailyMinutesDown": {
-      "2021-08-02": 137,
+      "2021-08-02": 138,
       "2021-08-01": 397,
       "2021-07-31": 272,
       "2021-07-30": 384,
@@ -58,8 +58,7 @@
       "2020-11-28": 32,
       "2020-11-27": 41,
       "2020-11-26": 26,
-      "2020-11-25": 112,
-      "2020-11-24": 35
+      "2020-11-25": 112
     }
   },
   {

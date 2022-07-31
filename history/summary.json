@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/www.chrimbo.de",
     "slug": "chrimbo-de",
     "status": "up",
-    "uptime": "99.40%",
+    "uptime": "99.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.71%",
     "uptimeMonth": "99.32%",
-    "uptimeYear": "99.56%",
+    "uptimeYear": "99.65%",
     "time": 2095,
-    "timeDay": 1253,
-    "timeWeek": 1190,
-    "timeMonth": 1147,
-    "timeYear": 2033,
+    "timeDay": 820,
+    "timeWeek": 1151,
+    "timeMonth": 1137,
+    "timeYear": 1895,
     "dailyMinutesDown": {
       "2022-07-24": 130,
       "2022-07-18": 169,
@@ -25,8 +25,7 @@
       "2021-08-04": 245,
       "2021-08-03": 196,
       "2021-08-02": 137,
-      "2021-08-01": 397,
-      "2021-07-31": 272
+      "2021-08-01": 397
     }
   },
   {
@@ -35,16 +34,16 @@
     "icon": "https://favicons.githubusercontent.com/www.bormann2.de",
     "slug": "bormann",
     "status": "up",
-    "uptime": "46.47%",
+    "uptime": "46.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.85%",
     "uptimeMonth": "99.12%",
-    "uptimeYear": "10.32%",
+    "uptimeYear": "10.34%",
     "time": 1483,
-    "timeDay": 1476,
-    "timeWeek": 1310,
-    "timeMonth": 1701,
-    "timeYear": 1556,
+    "timeDay": 1050,
+    "timeWeek": 1238,
+    "timeMonth": 1682,
+    "timeYear": 1509,
     "dailyMinutesDown": {
       "2022-07-24": 217,
       "2022-07-18": 169,
@@ -380,8 +379,7 @@
       "2021-08-04": 65,
       "2021-08-03": 37,
       "2021-08-02": 19,
-      "2021-08-01": 138,
-      "2021-07-31": 33
+      "2021-08-01": 138
     }
   }
 ]

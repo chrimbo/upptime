@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.91%",
-    "time": 1823,
-    "timeDay": 1002,
-    "timeWeek": 925,
-    "timeMonth": 1007,
+    "time": 1820,
+    "timeDay": 812,
+    "timeWeek": 916,
+    "timeMonth": 992,
     "timeYear": 986,
     "dailyMinutesDown": {
       "2022-08-16": 91,
@@ -29,15 +29,15 @@
     "icon": "https://favicons.githubusercontent.com/www.bormann2.de",
     "slug": "bormann",
     "status": "up",
-    "uptime": "49.58%",
+    "uptime": "49.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
-    "uptimeYear": "18.75%",
-    "time": 1476,
-    "timeDay": 1217,
+    "uptimeYear": "19.02%",
+    "time": 1477,
+    "timeDay": 991,
     "timeWeek": 1084,
-    "timeMonth": 1212,
+    "timeMonth": 1189,
     "timeYear": 1309,
     "dailyMinutesDown": {
       "2022-08-19": 22,
@@ -338,8 +338,7 @@
       "2021-09-11": 1440,
       "2021-09-10": 1440,
       "2021-09-09": 1440,
-      "2021-09-08": 1440,
-      "2021-09-07": 1440
+      "2021-09-08": 1440
     }
   }
 ]

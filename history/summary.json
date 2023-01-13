@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.chrimbo.de.ico",
     "slug": "chrimbo-de",
     "status": "up",
-    "uptime": "99.52%",
+    "uptime": "99.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 1010,
-    "timeDay": 1275,
-    "timeWeek": 1117,
+    "timeDay": 945,
+    "timeWeek": 1060,
     "timeMonth": 1115,
     "timeYear": 1029,
     "dailyMinutesDown": {
@@ -29,15 +29,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bormann2.de.ico",
     "slug": "bormann",
     "status": "up",
-    "uptime": "57.84%",
+    "uptime": "57.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "53.80%",
-    "time": 1319,
-    "timeDay": 1783,
-    "timeWeek": 1758,
-    "timeMonth": 1536,
+    "uptimeYear": "54.08%",
+    "time": 1320,
+    "timeDay": 1414,
+    "timeWeek": 1620,
+    "timeMonth": 1535,
     "timeYear": 1350,
     "dailyMinutesDown": {
       "2022-11-16": 19,
@@ -212,8 +212,7 @@
       "2022-01-17": 1440,
       "2022-01-16": 1440,
       "2022-01-15": 1440,
-      "2022-01-14": 1440,
-      "2022-01-13": 1440
+      "2022-01-14": 1440
     }
   }
 ]

@@ -6,14 +6,14 @@
     "slug": "chrimbo-de",
     "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "94.13%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.16%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.90%",
     "time": 1022,
-    "timeDay": 2453,
-    "timeWeek": 1600,
-    "timeMonth": 1203,
+    "timeDay": 1043,
+    "timeWeek": 1554,
+    "timeMonth": 1206,
     "timeYear": 1047,
     "dailyMinutesDown": {
       "2023-01-25": 85,
@@ -30,16 +30,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bormann2.de.ico",
     "slug": "bormann",
     "status": "up",
-    "uptime": "58.58%",
-    "uptimeDay": "96.86%",
+    "uptime": "58.63%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.55%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "57.63%",
+    "uptimeYear": "57.90%",
     "time": 1324,
-    "timeDay": 1510,
-    "timeWeek": 1556,
-    "timeMonth": 1548,
-    "timeYear": 1358,
+    "timeDay": 1318,
+    "timeWeek": 1506,
+    "timeMonth": 1549,
+    "timeYear": 1357,
     "dailyMinutesDown": {
       "2023-01-25": 45,
       "2022-11-16": 19,
@@ -200,8 +200,7 @@
       "2022-01-31": 1440,
       "2022-01-30": 1440,
       "2022-01-29": 1440,
-      "2022-01-28": 1440,
-      "2022-01-27": 1440
+      "2022-01-28": 1440
     }
   }
 ]

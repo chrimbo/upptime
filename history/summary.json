@@ -11,9 +11,9 @@
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.89%",
     "time": 1032,
-    "timeDay": 1011,
-    "timeWeek": 978,
-    "timeMonth": 1004,
+    "timeDay": 857,
+    "timeWeek": 966,
+    "timeMonth": 1001,
     "timeYear": 1066,
     "dailyMinutesDown": {
       "2023-03-24": 67,
@@ -32,15 +32,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bormann2.de.ico",
     "slug": "bormann",
     "status": "up",
-    "uptime": "61.44%",
+    "uptime": "61.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.25%",
     "uptimeMonth": "99.78%",
-    "uptimeYear": "73.77%",
+    "uptimeYear": "74.05%",
     "time": 1371,
-    "timeDay": 1452,
-    "timeWeek": 1363,
-    "timeMonth": 1454,
+    "timeDay": 1110,
+    "timeWeek": 1316,
+    "timeMonth": 1451,
     "timeYear": 1394,
     "dailyMinutesDown": {
       "2023-03-24": 67,
@@ -146,8 +146,7 @@
       "2022-03-31": 1440,
       "2022-03-30": 1440,
       "2022-03-29": 1440,
-      "2022-03-28": 1440,
-      "2022-03-27": 1440
+      "2022-03-28": 1440
     }
   }
 ]

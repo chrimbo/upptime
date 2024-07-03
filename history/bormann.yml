@@ -1,7 +1,7 @@
 url: https://www.bormann2.de
-status: up
-code: 200
-responseTime: 1174
-lastUpdated: 2024-07-02T23:06:54.580Z
+status: down
+code: 500
+responseTime: 1219
+lastUpdated: 2024-07-03T16:50:59.500Z
 startTime: 2020-11-22T17:12:49.000Z
 generator: Upptime <https://github.com/upptime/upptime>

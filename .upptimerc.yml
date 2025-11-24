@@ -8,6 +8,8 @@ sites:
     url: https://www.chrimbo.de
   - name: Bormann
     url: https://www.bormann2.de
+  - name: Wishlist
+    url: https://wish.sucb.de
 
 status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name

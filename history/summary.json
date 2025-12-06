@@ -9,7 +9,7 @@
     "uptimeDay": "94.22%",
     "uptimeWeek": "99.17%",
     "uptimeMonth": "99.81%",
-    "uptimeYear": "96.77%",
+    "uptimeYear": "96.78%",
     "time": 1048,
     "timeDay": 1127,
     "timeWeek": 1026,
@@ -44,7 +44,7 @@
     "uptimeDay": "95.86%",
     "uptimeWeek": "99.41%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "97.55%",
+    "uptimeYear": "97.56%",
     "time": 1659,
     "timeDay": 1454,
     "timeWeek": 1625,
@@ -76,17 +76,19 @@
     "url": "https://wish.sucb.de",
     "icon": "https://icons.duckduckgo.com/ip3/wish.sucb.de.ico",
     "slug": "wishlist",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 967,
-    "timeDay": 983,
-    "timeWeek": 1020,
-    "timeMonth": 967,
-    "timeYear": 967,
-    "dailyMinutesDown": {}
+    "time": 948,
+    "timeDay": 838,
+    "timeWeek": 979,
+    "timeMonth": 948,
+    "timeYear": 948,
+    "dailyMinutesDown": {
+      "2025-12-06": 0
+    }
   }
 ]

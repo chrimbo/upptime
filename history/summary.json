@@ -9,12 +9,12 @@
     "uptimeDay": "94.22%",
     "uptimeWeek": "99.17%",
     "uptimeMonth": "99.81%",
-    "uptimeYear": "96.78%",
+    "uptimeYear": "96.90%",
     "time": 1048,
-    "timeDay": 1127,
-    "timeWeek": 1026,
-    "timeMonth": 967,
-    "timeYear": 1046,
+    "timeDay": 1077,
+    "timeWeek": 1010,
+    "timeMonth": 969,
+    "timeYear": 1045,
     "dailyMinutesDown": {
       "2025-12-06": 83,
       "2025-07-18": 542,
@@ -30,8 +30,7 @@
       "2024-12-11": 1440,
       "2024-12-10": 1440,
       "2024-12-09": 1440,
-      "2024-12-08": 1440,
-      "2024-12-07": 1440
+      "2024-12-08": 1440
     }
   },
   {
@@ -44,12 +43,12 @@
     "uptimeDay": "95.86%",
     "uptimeWeek": "99.41%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "97.56%",
-    "time": 1659,
-    "timeDay": 1454,
-    "timeWeek": 1625,
-    "timeMonth": 1648,
-    "timeYear": 1668,
+    "uptimeYear": "97.68%",
+    "time": 1661,
+    "timeDay": 1568,
+    "timeWeek": 1620,
+    "timeMonth": 1658,
+    "timeYear": 1670,
     "dailyMinutesDown": {
       "2025-12-06": 60,
       "2025-10-14": 161,
@@ -67,8 +66,7 @@
       "2024-12-11": 1440,
       "2024-12-10": 1440,
       "2024-12-09": 1440,
-      "2024-12-08": 1440,
-      "2024-12-07": 1440
+      "2024-12-08": 1440
     }
   },
   {
@@ -77,18 +75,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/wish.sucb.de.ico",
     "slug": "wishlist",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 948,
-    "timeDay": 838,
-    "timeWeek": 979,
-    "timeMonth": 948,
-    "timeYear": 948,
+    "uptime": "96.49%",
+    "uptimeDay": "55.44%",
+    "uptimeWeek": "93.63%",
+    "uptimeMonth": "96.49%",
+    "uptimeYear": "96.49%",
+    "time": 954,
+    "timeDay": 864,
+    "timeWeek": 943,
+    "timeMonth": 954,
+    "timeYear": 954,
     "dailyMinutesDown": {
-      "2025-12-06": 0
+      "2025-12-07": 58,
+      "2025-12-06": 584
     }
   }
 ]

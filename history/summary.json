@@ -9,11 +9,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.17%",
     "uptimeMonth": "99.81%",
-    "uptimeYear": "98.27%",
-    "time": 1046,
-    "timeDay": 1006,
-    "timeWeek": 965,
-    "timeMonth": 963,
+    "uptimeYear": "98.54%",
+    "time": 1047,
+    "timeDay": 1011,
+    "timeWeek": 960,
+    "timeMonth": 958,
     "timeYear": 1043,
     "dailyMinutesDown": {
       "2025-12-06": 83,
@@ -24,8 +24,7 @@
       "2025-07-14": 41,
       "2025-05-09": 24,
       "2025-02-10": 697,
-      "2024-12-14": 556,
-      "2024-12-13": 1440
+      "2024-12-14": 556
     }
   },
   {
@@ -34,15 +33,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bormann2.de.ico",
     "slug": "bormann",
     "status": "up",
-    "uptime": "81.48%",
+    "uptime": "81.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.41%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "99.05%",
-    "time": 1666,
-    "timeDay": 2281,
-    "timeWeek": 1743,
-    "timeMonth": 1680,
+    "uptimeYear": "99.33%",
+    "time": 1667,
+    "timeDay": 1943,
+    "timeWeek": 1758,
+    "timeMonth": 1676,
     "timeYear": 1672,
     "dailyMinutesDown": {
       "2025-12-06": 60,
@@ -55,8 +54,7 @@
       "2025-05-09": 112,
       "2025-02-16": 22,
       "2025-02-10": 697,
-      "2024-12-14": 557,
-      "2024-12-13": 1440
+      "2024-12-14": 557
     }
   },
   {
@@ -65,16 +63,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/wish.sucb.de.ico",
     "slug": "wishlist",
     "status": "up",
-    "uptime": "82.43%",
+    "uptime": "83.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "55.60%",
-    "uptimeMonth": "82.43%",
-    "uptimeYear": "82.43%",
-    "time": 979,
-    "timeDay": 1089,
-    "timeWeek": 996,
-    "timeMonth": 979,
-    "timeYear": 979,
+    "uptimeMonth": "83.37%",
+    "uptimeYear": "83.37%",
+    "time": 995,
+    "timeDay": 1334,
+    "timeWeek": 1035,
+    "timeMonth": 995,
+    "timeYear": 995,
     "dailyMinutesDown": {
       "2025-12-09": 1012,
       "2025-12-08": 1440,
